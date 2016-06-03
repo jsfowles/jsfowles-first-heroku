@@ -34,7 +34,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'materialize-sass'
 
 
-group :production, do
+group :production do
   gem 'puma'
 end
 
